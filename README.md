@@ -5,15 +5,11 @@
 
 - 🤝 I’m looking for help with [Kafkaesque - Kafka Testing Library](https://github.com/rcardin/kafkaesque)
 
-- 📝 I regularly write articles on [https://blog.rockthejvm.com/](https://blog.rockthejvm.com/)
+- 📝 I regularly write articles on [Rock The Jvm blog](https://blog.rockthejvm.com/), but I've also wrote on [Baeldung](https://www.baeldung.com/scala/author/riccardocardin). Check out all my articles on [my blog](http://blog.rcard.in/)
 
-- 💬 Ask me about **Scala, Cats, ZIO, Akka, Java, Spring**
+- 💬 Ask me about **Java, Spring, Scala, Cats (still learning), ZIO (still learning), Akka**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/riccardocardin/](https://www.linkedin.com/in/riccardocardin/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
