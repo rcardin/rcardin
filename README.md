@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riccardo</h1>
-<h3 align="center">A passionate backend developer, teacher, and blogger from Italyaly</h3>
+<h3 align="center">A passionate backend developer, teacher, and blogger from Italy</h3>
 
 - 🌱 I’m currently learning **Functional programming in Scala**
 
