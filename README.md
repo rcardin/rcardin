@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [Rock The Jvm blog](https://blog.rockthejvm.com/), but I've also wrote on [Baeldung](https://www.baeldung.com/scala/author/riccardocardin). Check out all my articles on [my blog](http://blog.rcard.in/)
 
-- 💬 Ask me about **Java, Spring, Scala, Cats (still learning), ZIO (still learning), Akka**
+- 💬 Ask me about **Java, Spring, Scala, Cats (still learning), ZIO (still learning), Akka, and Kotlin**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/riccardocardin/](https://www.linkedin.com/in/riccardocardin/)
 
