@@ -5,6 +5,8 @@
 
 - 🤝 I’m looking for help with [Kafkaesque - Kafka Testing Library](https://github.com/rcardin/kafkaesque)
 
+- 🎭 Did you have a look at my brand new _actor model library_ written in Kotlin, [kactor](https://github.com/rcardin/kactor)?
+
 - 📝 I regularly write articles on [Rock The Jvm blog](https://blog.rockthejvm.com/), but I've also wrote on [Baeldung](https://www.baeldung.com/scala/author/riccardocardin). Check out all my articles on [my blog](http://blog.rcard.in/)
 
 - 💬 Ask me about **Java, Spring, Scala, Cats (still learning), ZIO (still learning), Akka, and Kotlin**
