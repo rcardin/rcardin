@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Riccardo</h1>
 <h3 align="center">A passionate backend developer, teacher, and blogger from Italy</h3>
 
-- 🌱 I’m currently learning **Functional programming in Scala**
-
-- 🤝 I’m looking for help with [Kafkaesque - Kafka Testing Library](https://github.com/rcardin/kafkaesque)
-
-- 🎭 Did you have a look at my brand new _actor model library_ written in Kotlin, [kactor](https://github.com/rcardin/kactor)?
+- 🌱 I’m currently learning **Functional programming in Scala/Kotlin**
 
 - 📝 I regularly write articles on [Rock The Jvm blog](https://blog.rockthejvm.com/), but I've also wrote on [Baeldung](https://www.baeldung.com/scala/author/riccardocardin). Check out all my articles on [my blog](http://blog.rcard.in/)
+
+- 👀 Check out my libraries published on Maven Central Repository:
+  - [Kafkaesque](https://github.com/rcardin/kafkaesque), a testing library for applications built on top of Kafka
+  - [Kactor](https://github.com/rcardin/kactor), a prototype library implementing the actor model in Kotlin
+  - [Arrow/AssertJ Integration](https://github.com/rcardin/assertj-arrow-core), a library that adds to AssertJ a bunch on assertion for `Either` and `Option` type from Arrow Kt
 
 - 💬 Ask me about **Java, Spring, Scala, Cats (still learning), ZIO (still learning), Akka, and Kotlin**
 
