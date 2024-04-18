@@ -6,6 +6,7 @@
 - 📝 I regularly write articles on [Rock The Jvm blog](https://blog.rockthejvm.com/), but I've also wrote on [Baeldung](https://www.baeldung.com/scala/author/riccardocardin). Check out all my articles on [my blog](http://blog.rcard.in/)
 
 - 👀 Check out my libraries published on Maven Central Repository:
+  - [Raise4s](https://github.com/rcardin/raise4s), direct-style Scala library to handle logic typed errors. It's a port from Kotlin of the Arrow Kt `Raise[E]` context
   - [Kafkaesque](https://github.com/rcardin/kafkaesque) 🐛, a testing library for applications built on top of Kafka
   - [Kactor](https://github.com/rcardin/kactor) 🎭, a prototype library implementing the actor model in Kotlin
   - [Arrow/AssertJ Integration](https://github.com/rcardin/assertj-arrow-core) 🧪, a library that adds to AssertJ a bunch on assertion for `Either` and `Option` type from Arrow Kt
