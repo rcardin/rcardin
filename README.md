@@ -6,7 +6,7 @@
 - 📝 I regularly write articles on [Rock The Jvm blog](https://blog.rockthejvm.com/), but I've also wrote on [Baeldung](https://www.baeldung.com/scala/author/riccardocardin). Check out all my articles on [my blog](http://blog.rcard.in/)
 
 - 👀 Check out my libraries published on Maven Central Repository:
-  - [YÆS](https://github.com/rcardin/yaes) 🇾, a Scala effect-system implementing Capability Passing Style
+  - [YÆS](https://github.com/rcardin/yaes) 🇾, an experimental effect system in Scala that tracks effects through context functions 
   - [Sus4s](https://github.com/rcardin/sus4s) 🎸, a direct-style Scala library implementing concurrency patterns
   - [Raise4s](https://github.com/rcardin/raise4s) 🌩️, a direct-style Scala library to handle logic typed errors. It's a port from Kotlin of the Arrow Kt `Raise[E]` context
   - [Kafkaesque](https://github.com/rcardin/kafkaesque) 🐛, a testing library for applications built on top of Kafka
